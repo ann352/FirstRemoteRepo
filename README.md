@@ -1,1 +1,1 @@
-# FirstRemoteRepo
+# Lista zakupów z warzywniaka
